@@ -13,6 +13,7 @@ This is the [link](https://nimble-malabi-36ca9c.netlify.app/).
 - [Support](#support)
 - [Credits](#credits)
 - [License](#license)
+- [Note](#note)
 
 ## Installation
 
@@ -38,3 +39,7 @@ This app was created by Pekko - GB.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Note
+
+The initial steps of the project are left as comments in the HTML and JavaScript files. This approach allowed for step-by-step development, gradually adding more functionality.

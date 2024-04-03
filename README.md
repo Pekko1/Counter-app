@@ -2,7 +2,7 @@
 
 This is a simple counter app that allows users to add, remove, and save counts. It is built using HTML, CSS, and JavaScript. The HTML content is dynamically created using JavaScript.
 
-This is the [link](This is the link https://nimble-malabi-36ca9c.netlify.app/).
+This is the [link](https://nimble-malabi-36ca9c.netlify.app/).
 
 ![Screenshot](assets/img/Screenshot app.png)
 

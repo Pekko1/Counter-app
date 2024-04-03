@@ -4,7 +4,7 @@ This is a simple counter app that allows users to add, remove, and save counts. 
 
 This is the [link](https://nimble-malabi-36ca9c.netlify.app/).
 
-![Screenshot](assets/img/Screenshot app.png)
+![Screenshot](assets/img/Screenshot_app.png)
 
 ## Table of Contents
 
